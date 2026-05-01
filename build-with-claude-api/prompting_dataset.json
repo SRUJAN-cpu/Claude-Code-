@@ -1,0 +1,17 @@
+[
+  {
+    "prompt_inputs": {
+      "height": "180 cm",
+      "weight": "72 kg",
+      "goal": "Marathon race day nutrition plan with optimal carbohydrate timing for energy and performance",
+      "restrictions": "None"
+    },
+    "solution_criteria": [
+      "Includes pre-race breakfast (2-3 hours before), mid-race fueling strategy, and post-race recovery meal",
+      "Provides high carbohydrate intake (8-12g per kg body weight) with adequate protein for recovery",
+      "Specifies meal timing aligned with race day schedule and workout intensity"
+    ],
+    "task_description": "Write a compact, concise 1 day meal plan for a single athlete",
+    "scenario": "Testing with a professional endurance athlete (marathon runner) requiring high carbohydrate intake and specific pre/post-workout meal timing on race day"
+  }
+]
