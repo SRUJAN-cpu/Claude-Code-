@@ -2,3 +2,10 @@ node_modules
 post-log.json
 pre-log.json
 .env
+
+# Python virtual environments
+.venv/
+.venv*/
+.venv-1/
+__pycache__/
+*.pyc
